@@ -1,7 +1,6 @@
 package java_dataStructure.sort;
 
 import java.util.Arrays;
-import java.util.concurrent.BrokenBarrierException;
 
 /**
  * 快速排序
