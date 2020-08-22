@@ -22,4 +22,5 @@ public class JZ47 {
         boolean flag = (n>1)&&((result+=sum2(n-1))>0);
         return result;
     }
+
 }
